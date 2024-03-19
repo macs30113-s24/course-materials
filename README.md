@@ -1,6 +1,6 @@
 [canvas_url]: https://canvas.uchicago.edu/courses/56588
 [jon_oh]: https://calendar.app.google/yto22DQqDT1KxLDT8
-[sam_oh]: URL_TBD
+[sam_oh]: https://calendar.app.google/PuB2drG1YzSq1HU7A
 
 # Principles of Computing 3: Big Data and High Performance Computing for Social Scientists
 ### Spring 2024 - MACS 30113
@@ -8,9 +8,9 @@
 | Instructor Information       | TA Information       | Course Information     |
 | :-------------               | :-------------       | :------------          |
 | Jon Clindaniel               | Sam Corey            | Location: 1155 E. 60th Street, Rm. 140C   |
-| 1155 E. 60th Street, Rm. 215 | TBD                  | Monday/Wednesday Lecture, Friday Lab      |
+| 1155 E. 60th Street, Rm. 215 | Rm. 222              | Monday/Wednesday Lecture, Friday Lab      |
 | jclindaniel@uchicago.edu     | secorey@uchicago.edu | 3:00-4:20 PM (CT) |
-| **Office Hours:** [Schedule an Appointment][jon_oh] Tuesday 11:00am-1:00pm<br/><br/> Drop-In (No appointment needed): Tuesday 2:00-4:00pm | **Office Hours:** [Schedule an Appointment][sam_oh]<br/> | [Canvas Course Site][canvas_url] |
+| **Office Hours:** [Schedule an Appointment][jon_oh] Tuesday 11:00am-1:00pm<br/><br/> Drop-In (No appointment needed): Tuesday 2:00-4:00pm | **Office Hours:** [Schedule an Appointment][sam_oh] Wednesday 12:45-2:45pm<br/> | [Canvas Course Site][canvas_url] |
 
 ## Course Description
 Computational social scientists increasingly need to grapple with data that is too big and code that is too resource intensive to run on a local machine. Using Python, students in this course will learn how to effectively scale their computational methods beyond their local machines -- optimizing and parallelizing their code across clusters of CPUs and GPUs, both on-premises and in the cloud. The focus of the course will be on social scientific applications, such as: accelerating social simulations by several orders of magnitude, processing large amounts of social media data in real-time, and training machine learning models on economic datasets that are too large for an average laptop to handle.
