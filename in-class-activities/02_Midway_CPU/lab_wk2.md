@@ -13,7 +13,7 @@
 
 module load python mpich
 
-mpirun python3 ./mpi_rand_walk.py
+mpirun python3 ./2W_MPI/mpi_rand_walk.py
 ```
 
 1. Consider the sbatch script above. Describe in words what each line of the sbatch script does.
